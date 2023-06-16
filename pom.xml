@@ -16,6 +16,8 @@
     <name>MyYeb</name>
     <modules>
         <module>yeb-server</module>
+        <module>yeb-mail</module>
+        <module>yeb-generator</module>
     </modules>
 
     <packaging>pom</packaging>
